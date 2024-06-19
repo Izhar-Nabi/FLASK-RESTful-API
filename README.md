@@ -1,5 +1,5 @@
 # Flask CRUD RESTful API with MySQL
--- This project demonstrates a simple CRUD (Create, Read, Update, Delete) application using Flask as the web framework and MySQL as the database. The application exposes a RESTful API for managing a collection of items.
+--This project demonstrates a simple CRUD (Create, Read, Update, Delete) application using Flask as the web framework and MySQL as the database. The application exposes a RESTful API for managing a collection of items.
 ## Table of Contents
 -- Features
 -- Installation
